@@ -1,4 +1,4 @@
-admin_password = "W@terf0rd76"
+admin_password = "password"
 
 
 
