@@ -1,6 +1,6 @@
 provider "azurerm" {
   version = "=1.36.0"
-  subscription_id = "6f406f67-316d-4611-a40c-14cbbea114da"
+  subscription_id = "########-#########-##########"
 }
 
 resource "azurerm_resource_group" "terraformgroup" {
