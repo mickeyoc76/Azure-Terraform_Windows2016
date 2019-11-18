@@ -47,7 +47,7 @@ resource "azurerm_network_security_group" "terraformnsg" {
     resource_group_name = "${azurerm_resource_group.terraformgroup.name}"
     
     security_rule {
-        name                       = "SSH"
+        name                       = "RDP"
         priority                   = 1001
         direction                  = "Inbound"
         access                     = "Allow"
