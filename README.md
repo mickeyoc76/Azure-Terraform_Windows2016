@@ -1,5 +1,5 @@
-# Azure-Terraform_Windows2016
-
+# Azure Terraform Deploy Windows2016 VM
+ 
 Terraform Azure project will deploy the following....
 
 - Deploy Windows VM 
