@@ -1,2 +1,10 @@
 # Azure-Terraform_Windows2016
-Terraform Deploy Windows VM, Resource Group, vnet, nsg, nic, join to domain
+
+Terraform Azureproject will deploy the following....
+
+# Deploy Windows VM, 
+# Create Resource Group, 
+# Create vNet, 
+# Create NSG, 
+# Create NIC, 
+# Join VM to domain (Optional)
